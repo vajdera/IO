@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MyQuerry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Adres="cx" Telefon="" Nip="" Regon="">
+  <Pracownicy Imię="cx" />
+  <Pracownicy Imię="xc" />
+  <SoftB Nazwa="xccc" Autor="cx" Przydatnosc="bardzo_dobry" Wydajnosc="bardzo_dobry" Poziom="dostateczny" />
+  <SoftB Nazwa="df" Autor="fasf" Przydatnosc="niedostateczny" Wydajnosc="niedostateczny" Poziom="niedostateczny" />
+  <SoftB Nazwa="sdfff" Autor="dffas" Przydatnosc="niedostateczny" Wydajnosc="bardzo_dobry" Poziom="niedostateczny" />
+  <SoftZ Nazwa="xc" Autor="cxc" Przydatnosc="bardzo_dobry" Wydajnosc="bardzo_dobry" Poziom="bardzo_dobry" />
+  <SoftZ Nazwa="gfdg" Autor="dfd" Przydatnosc="dostateczny" Wydajnosc="dobry" Poziom="dobry" />
+</MyQuerry>
